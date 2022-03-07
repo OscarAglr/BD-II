@@ -1,0 +1,14 @@
+walger.herrera@gmail.com
+walger.herrera@fcys.uni.edu.ni
+
+Hora consulta 1pt (1 - 2:30)
+
+Modelos de datos
+Registros
+Diagrama de red, jerarquico, relacional
+Normalizado
+
+Objetos
+DER, Clases
+No normalizado
+
