@@ -1,0 +1,4 @@
+1) Demuestre en sql server porque securityadmin (rol de servidor) debe tener el mismo tratamiento que el rol sysadmin
+IMPORTANT: The ability to grant access to the Database Engine and to configure user permissions allows the security admin to assign most server permissions. The securityadmin role should be treated as equivalent to the sysadmin role.
+2) Realizar una auditoría que controle los permisos que se le dan a los usuarios de bases de datos
+audit: schema object permissions change group
