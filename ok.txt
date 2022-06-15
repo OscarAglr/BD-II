@@ -1,0 +1,3 @@
+Preparar un dashboard de objetos visuales para identificar cinco características de clientes que compran bicicletas y cinco características de clientes que no compran bicicletas.
+Condiciones:
+Utilizar al menos 3 objetos visuales que no están en los básicos no cargados.
