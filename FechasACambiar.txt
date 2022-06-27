@@ -1,0 +1,8 @@
+Fechas a cambiar:
+Propiedades dim var lenta - Fecha final '9999/12/31'
+Columna derivada - Fecha final Getdate()
+Comando ole db - Fecha final = '9999/12/31'
+Columna derivada 1 - FechaInicio (DT_DBDATE)Getdate()
+			Fecha final (DT_DBDATE) "9999/12/31"
+
+
